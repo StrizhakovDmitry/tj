@@ -1,0 +1,211 @@
+
+body
+{
+width:1247px;
+}
+#search_form_moderator
+{
+width:131px;
+}
+#search_form_login
+{
+width:169px;
+}
+#search_form_telnum
+{
+
+width:87px;
+}
+#search_form_project
+{
+width:147px;
+}
+#search_reason
+{
+width:211px;
+}
+#search_form_comment
+{
+width:230px;
+}
+#data_search_form
+{
+width:125px;
+}
+#id_search_form
+{
+width:56px;
+}
+#search_form_button
+{
+width:27px;
+}
+#search_form_select_reason
+{
+width:209px;
+}
+.search_form_select_reason_option
+{
+width:206px;
+}
+
+
+
+
+#search_form
+{
+//width:1207px;
+}
+
+.auth_block
+	{
+	border-radius:5px;
+	position: relative;
+	height:35px;
+	background-color:#B5B5B5;
+	margin:0px 10px;
+	}
+.auth_elements_list ul
+	{
+	margin:100px;
+	}
+.auth_elements_list li
+	{
+	display:inline;
+	float:left;
+	padding:5px 10px;
+	}
+.create_block
+	{
+	border-radius:5px;
+	position: relative;
+	background-color:#CFCFCF;
+	margin:10px 10px;
+	}
+
+.commentary
+	{
+	width:430px;
+	}
+
+#notes_block
+	{
+	position: relative;
+	//background-color:yellow;
+	margin:10px 10px;
+	}
+#notes_table
+	{
+	overflow:hidden;
+    border:1px solid #d3d3d3;
+    background:#fefefe;
+    width:100%;
+    margin:0px 0px;
+    -moz-border-radius:5px; /* FF1+ */
+    -webkit-border-radius:5px; /* Saf3-4 */
+    border-radius:5px;
+    -moz-box-shadow: 0 0 4px rgba(0, 0, 0, 0.2);
+    -webkit-box-shadow: 0 0 4px rgba(0, 0, 0, 0.2);
+	}
+#notes_table td
+{
+   padding:18px 5px 18px; 
+   text-align:center;
+}
+#notes_table th
+{
+    //padding-top:2px; 
+    text-shadow: 1px 1px 1px #fff;
+    background:#e8eaeb;
+}
+#add_form_reason
+	{
+	width:211px;
+	}
+#select_reasons
+	{
+	width:100%;
+	}
+#search_block
+	{
+	margin:10px 50px;
+	}
+#search_table
+	{
+	overflow:hidden;
+    border:1px solid #d3d3d3;
+    background:#fefefe;
+    width:100%;
+    margin:0px 0px;
+    -moz-border-radius:5px; /* FF1+ */
+    -webkit-border-radius:5px; /* Saf3-4 */
+    border-radius:5px;
+    -moz-box-shadow: 0 0 4px rgba(0, 0, 0, 0.2);
+    -webkit-box-shadow: 0 0 4px rgba(0, 0, 0, 0.2);
+	}
+#search_table td
+{
+   padding:18px 28px 18px; 
+   text-align:center;
+}
+#search_table th
+{
+    //padding-top:2px; 
+    text-shadow: 1px 1px 1px #fff;
+    background:#e8eaeb;
+}
+#search_form_reason_select select
+{
+//width:209px;
+}
+#search_telnum
+{
+width:79px;
+position: relative;
+}
+#search_form_comment
+{
+min-width:190px;
+max-width:200px;
+}
+.block_list_comment
+{
+max-width:200px;
+word-wrap:break-word; 
+}
+#search_start_datetime, #search_end_datetime
+{
+width:79px;
+}
+#search_form_id
+{
+width:40px;
+}
+#search_submit
+{
+position: relative;
+height:30px;
+left: 0px;
+top:40px;
+//background-color:#7dc600;
+display: inline-block;
+line-height: 2.5em;
+vertical-align: middle;
+text-align: center;
+text-shadow: 0 -1px 1px #777;
+outline: none;
+border: 0px solid #80FF00;
+border-radius: 5px;
+background: linear-gradient(RGB(15,243,83),RGB(51,131,75),RGB(15,243,83));
+}
+#search_submit:active 
+{
+background: linear-gradient(RGB(0,223,63),RGB(31,111,55),RGB(0,223,63));
+}
+.turn_button
+	{
+	position:absolute;
+	right:0px;
+	top:0px;
+	
+	}

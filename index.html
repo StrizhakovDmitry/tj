@@ -1,0 +1,12 @@
+﻿<?php require_once 'autoload.php';?>
+<?php
+session_start();
+new header();
+?>
+<body>
+<?
+new createAuthTop();
+create_adding_form::create_form();
+create_notes_block::create_block();
+?>
+</body>
